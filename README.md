@@ -1,3 +1,5 @@
+<!-- Readme file for Github-->
+
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm MD. Shahriyar Al Mustakim Mitul</h1>
 <h3 align="center">A Passionate Problem Solver and Open-Source Contributor</h3>
 
@@ -67,7 +69,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitul3737&show_icons=true&locale=en&layout=compact" alt="mitul3737" />
-
 
 
 📈 My GitHub Stats
